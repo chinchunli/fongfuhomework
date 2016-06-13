@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Dachun first button
+//  all in
 //
-//  Created by HsuFu-Chun on 2016/5/22.
-//  Copyright © 2016年 Li Chin-Chun. All rights reserved.
+//  Created by 李志峻 on 2016/6/8.
+//  Copyright © 2016年 李志峻. All rights reserved.
 //
 
 import UIKit
